@@ -9,4 +9,4 @@
 
 ## Результат
 
-![Тесты прошли](screenshot.png)
+![Тесты прошли](Screenshot.png)
