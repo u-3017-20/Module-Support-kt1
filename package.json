@@ -1,0 +1,24 @@
+{
+  "name": "module-support-kt1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://u-3017-20@github.com/u-3017-20/Module-Support-kt1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/u-3017-20/Module-Support-kt1/issues"
+  },
+  "homepage": "https://github.com/u-3017-20/Module-Support-kt1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}
